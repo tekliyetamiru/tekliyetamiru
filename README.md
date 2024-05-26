@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tekliye Tamiru 
-- 👀 I’m interested in in website development and mobile applications development
+- 👋 Hi, I’m name is Tekliye Tamiru third year Software Engineering in Adama Science And Technology University  
+- 👀 I’m interested in website development and mobile applications development
 - 🌱 I’m currently learning javascript,react and flutter 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
